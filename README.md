@@ -7,7 +7,6 @@ This is a web based application developed for health related based website in in
 
 **Project Link** - https://orange-ocean-043281300.2.azurestaticapps.net
 **project demo video link** - https://youtu.be/MEvlPab3r_Q
-
 ## Azure technologies used for Project
 
 - Static web apps
@@ -53,13 +52,3 @@ This is a web based application developed for health related based website in in
 ### gallery -
 
 ![Screenshot 2022-12-20 214456](https://user-images.githubusercontent.com/118047429/208713959-9bec00b8-518c-487d-88a2-aa6bb63f91f5.jpg)
-
-
-
-## Tech Stack 💻
-
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
