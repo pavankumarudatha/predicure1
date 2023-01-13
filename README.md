@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** - https://orange-ocean-043281300.2.azurestaticapps.net
-**project demo video link** - https://youtu.be/MEvlPab3r_Q
+**project demo video link** - 
 ## Azure technologies used for Project
 
 - Static web apps
@@ -29,6 +29,16 @@ This is a web based application developed for health related based website in in
 
 ![Screenshot 2022-12-20 213247](https://user-images.githubusercontent.com/118047429/208711542-b207f81e-238b-4a23-9d9c-7ee43832a759.jpg)
 
+
+### health bot   -
+
+![Screenshot 2022-12-20 214028](https://user-images.githubusercontent.com/118047429/208713141-b3feb65c-0bfa-4e71-85b2-74acd26c467a.jpg)
+
+
+### Static web apps   -
+
+![static web apps screen shot](https://user-images.githubusercontent.com/118047429/212330683-f3878a68-9b21-4a45-9fa0-8864cdb4de31.png)
+
    
 
 ### About Us -
@@ -45,9 +55,7 @@ This is a web based application developed for health related based website in in
 ![Screenshot 2022-12-20 222349](https://user-images.githubusercontent.com/118047429/208722768-b582f670-0800-483e-aa4a-490343cbcc48.jpg)
 
 
-### health bot
 
-![Screenshot 2022-12-20 214028](https://user-images.githubusercontent.com/118047429/208713141-b3feb65c-0bfa-4e71-85b2-74acd26c467a.jpg)
 
 ### gallery -
 
